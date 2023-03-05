@@ -5,7 +5,9 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Assignment 1 Solution");
-        GreetPlayer("Alice");
+        Console.Write("Give name ");
+        String inp_name = Console.ReadLine();
+        GreetPlayer(inp_name);
         Console.WriteLine("");
 
         Console.WriteLine("Assignment 2 Solution");

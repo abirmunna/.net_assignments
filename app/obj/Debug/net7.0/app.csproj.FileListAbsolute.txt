@@ -1,0 +1,15 @@
+/workspaces/c-_assignments/app/bin/Debug/net7.0/app
+/workspaces/c-_assignments/app/bin/Debug/net7.0/app.deps.json
+/workspaces/c-_assignments/app/bin/Debug/net7.0/app.runtimeconfig.json
+/workspaces/c-_assignments/app/bin/Debug/net7.0/app.dll
+/workspaces/c-_assignments/app/bin/Debug/net7.0/app.pdb
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.dll
+/workspaces/c-_assignments/app/obj/Debug/net7.0/refint/app.dll
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.pdb
+/workspaces/c-_assignments/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/workspaces/c-_assignments/app/obj/Debug/net7.0/ref/app.dll

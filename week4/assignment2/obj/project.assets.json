@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/c-_assignments/assignment2/assignment2.csproj",
+      "projectUniqueName": "/workspaces/c-_assignments/week4/assignment2/assignment2.csproj",
       "projectName": "assignment2",
-      "projectPath": "/workspaces/c-_assignments/assignment2/assignment2.csproj",
+      "projectPath": "/workspaces/c-_assignments/week4/assignment2/assignment2.csproj",
       "packagesPath": "/home/vscode/.nuget/packages/",
-      "outputPath": "/workspaces/c-_assignments/assignment2/obj/",
+      "outputPath": "/workspaces/c-_assignments/week4/assignment2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/vscode/.nuget/NuGet/NuGet.Config"

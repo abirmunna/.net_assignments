@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/c-_assignments/assignment/week4.csproj": {}
+    "/workspaces/c-_assignments/week4/assignment/week4.csproj": {}
   },
   "projects": {
-    "/workspaces/c-_assignments/assignment/week4.csproj": {
+    "/workspaces/c-_assignments/week4/assignment/week4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/c-_assignments/assignment/week4.csproj",
+        "projectUniqueName": "/workspaces/c-_assignments/week4/assignment/week4.csproj",
         "projectName": "week4",
-        "projectPath": "/workspaces/c-_assignments/assignment/week4.csproj",
+        "projectPath": "/workspaces/c-_assignments/week4/assignment/week4.csproj",
         "packagesPath": "/home/vscode/.nuget/packages/",
-        "outputPath": "/workspaces/c-_assignments/assignment/obj/",
+        "outputPath": "/workspaces/c-_assignments/week4/assignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vscode/.nuget/NuGet/NuGet.Config"

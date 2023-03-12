@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p8mE9TTQHpDTiU/O3+weW7OYaVqOA39WHyWTgeTiPBEOTwesKGW7m8H/EgT0UX45mNXL8M31bfHo7KCPgeCJHg==",
+  "dgSpecHash": "2h5SDrFuK2zSflMvR4sB7km8D9826YzULzNuHGzBFl+G4sG5W3SQzr9pHx7IQuJH+QMAasCjGSJIxbjET1ZpiA==",
   "success": true,
-  "projectFilePath": "/workspaces/c-_assignments/assignment2/assignment2.csproj",
+  "projectFilePath": "/workspaces/c-_assignments/week4/assignment2/assignment2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

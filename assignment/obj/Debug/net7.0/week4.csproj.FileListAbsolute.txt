@@ -1,0 +1,15 @@
+/workspaces/c-_assignments/assignment/bin/Debug/net7.0/week4
+/workspaces/c-_assignments/assignment/bin/Debug/net7.0/week4.deps.json
+/workspaces/c-_assignments/assignment/bin/Debug/net7.0/week4.runtimeconfig.json
+/workspaces/c-_assignments/assignment/bin/Debug/net7.0/week4.dll
+/workspaces/c-_assignments/assignment/bin/Debug/net7.0/week4.pdb
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.csproj.AssemblyReference.cache
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.AssemblyInfoInputs.cache
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.AssemblyInfo.cs
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.csproj.CoreCompileInputs.cache
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.dll
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/refint/week4.dll
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.pdb
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/week4.genruntimeconfig.cache
+/workspaces/c-_assignments/assignment/obj/Debug/net7.0/ref/week4.dll

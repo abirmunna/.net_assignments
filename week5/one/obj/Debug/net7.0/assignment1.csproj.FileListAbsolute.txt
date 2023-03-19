@@ -1,0 +1,15 @@
+/workspaces/.net_assignments/week5/one/bin/Debug/net7.0/assignment1
+/workspaces/.net_assignments/week5/one/bin/Debug/net7.0/assignment1.deps.json
+/workspaces/.net_assignments/week5/one/bin/Debug/net7.0/assignment1.runtimeconfig.json
+/workspaces/.net_assignments/week5/one/bin/Debug/net7.0/assignment1.dll
+/workspaces/.net_assignments/week5/one/bin/Debug/net7.0/assignment1.pdb
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.csproj.AssemblyReference.cache
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.AssemblyInfoInputs.cache
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.AssemblyInfo.cs
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.csproj.CoreCompileInputs.cache
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.dll
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/refint/assignment1.dll
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.pdb
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/assignment1.genruntimeconfig.cache
+/workspaces/.net_assignments/week5/one/obj/Debug/net7.0/ref/assignment1.dll
